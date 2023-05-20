@@ -1,0 +1,23 @@
+DOCUMENT SCANNER
+
+This project utilizes OpenCV to implement a document-scanning
+application. It includes various image processing techniques such as
+thresholding and edge detection to identify the document boundaries
+accurately. The code captures images from a webcam or loads an image
+from a file, and then applies image processing operations to detect and
+extract the document. The detected document is then warped to a top-
+
+down view using a perspective transformation. The final image can be
+saved and has OCR text for it.
+
+To run the program, you need:
+
+Python
+
+OpenCv
+
+NumPy
+
+Imutils and SciPy
+Pytesseract
+

@@ -12,3 +12,5 @@ This project utilizes OpenCV to implement a document-scanning application. It in
 •	Imutils and SciPy
 
 •	Pytesseract 
+
+![image](https://github.com/VJ-13/DocumentScanner/assets/64769412/7c6cc641-6aba-4af9-906b-9f093c7014f9)
